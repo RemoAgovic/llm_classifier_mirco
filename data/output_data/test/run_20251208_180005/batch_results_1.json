@@ -1,0 +1,4002 @@
+[
+    {
+        "request_id": 0,
+        "response": {
+            "id": "chatcmpl-CkYshX8OZkgh2Y1nJzrrqrvp2VaBR",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"1_1.\",\n    \"pressure\": 1,\n    \"theme\": \"health\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 557,
+                "total_tokens": 795,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 1
+    },
+    {
+        "request_id": 1,
+        "response": {
+            "id": "chatcmpl-CkYshECsgTBycdlUOXdUhWSGsVR9m",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"2_2.\",\n    \"pressure\": 1,\n    \"theme\": \"health\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 556,
+                "total_tokens": 794,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 2
+    },
+    {
+        "request_id": 2,
+        "response": {
+            "id": "chatcmpl-CkYshglIh6YzJRFeFoWi1lGroHr09",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"3_3.\",\"pressure\":1,\"theme\":\"health\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 223,
+                "prompt_tokens": 556,
+                "total_tokens": 779,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 3
+    },
+    {
+        "request_id": 3,
+        "response": {
+            "id": "chatcmpl-CkYsgtBrP2uqfKE4EWT4FJJuQJrd7",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"4_4.\",\n    \"pressure\": 1,\n    \"theme\": \"health\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213206,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 174,
+                "prompt_tokens": 556,
+                "total_tokens": 730,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 128,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 4
+    },
+    {
+        "request_id": 4,
+        "response": {
+            "id": "chatcmpl-CkYshWOGddYLt7X7BF9hg2eKzuZLM",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"5_5.\",\"pressure\":1,\"theme\":\"health\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 223,
+                "prompt_tokens": 555,
+                "total_tokens": 778,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 5
+    },
+    {
+        "request_id": 5,
+        "response": {
+            "id": "chatcmpl-CkYshuF8GiDQVjy0dVIcJ4WV9dOH1",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"6_6.\",\n    \"pressure\": 1,\n    \"theme\": \"health\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 557,
+                "total_tokens": 795,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 6
+    },
+    {
+        "request_id": 6,
+        "response": {
+            "id": "chatcmpl-CkYshq49Io4OQDM4Ucj4w42AU3bNG",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"7_7\",\"pressure\":1,\"theme\":\"health\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 95,
+                "prompt_tokens": 555,
+                "total_tokens": 650,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 64,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 7
+    },
+    {
+        "request_id": 7,
+        "response": {
+            "id": "chatcmpl-CkYshzusuNijB6gQQvQtS3JzvxXRu",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"8_8.\",\"pressure\":1,\"theme\":\"health\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 223,
+                "prompt_tokens": 557,
+                "total_tokens": 780,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 8
+    },
+    {
+        "request_id": 8,
+        "response": {
+            "id": "chatcmpl-CkYshDAHocnllI9jAXga3Ba8WR5d0",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"9_9\",\n    \"pressure\": 1,\n    \"theme\": \"health\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 110,
+                "prompt_tokens": 557,
+                "total_tokens": 667,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 64,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 9
+    },
+    {
+        "request_id": 9,
+        "response": {
+            "id": "chatcmpl-CkYshO85yVILDsxU8DA6BlPP0IJXj",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"10_10.\",\"pressure\":1,\"theme\":\"health\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 223,
+                "prompt_tokens": 557,
+                "total_tokens": 780,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 10
+    },
+    {
+        "request_id": 10,
+        "response": {
+            "id": "chatcmpl-CkYshMxWfNVmFTLLahSar9ucion0c",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"11_11.\",\n    \"pressure\": 1,\n    \"theme\": \"health\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 557,
+                "total_tokens": 859,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 11
+    },
+    {
+        "request_id": 11,
+        "response": {
+            "id": "chatcmpl-CkYsh4TykEgOWznf7xApzl3ndfLfE",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"12_12.\",\"pressure\":1,\"theme\":\"health\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 223,
+                "prompt_tokens": 558,
+                "total_tokens": 781,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 12
+    },
+    {
+        "request_id": 12,
+        "response": {
+            "id": "chatcmpl-CkYshqCLqVSmIYqtpHYl1Y8Y7afPF",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"13_13\",\"pressure\":1,\"theme\":\"health\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 159,
+                "prompt_tokens": 557,
+                "total_tokens": 716,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 128,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 13
+    },
+    {
+        "request_id": 13,
+        "response": {
+            "id": "chatcmpl-CkYshLgw4iZkGlaQh8XgqcQlHDDnB",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"14_14.\",\n    \"pressure\": 1,\n    \"theme\": \"health\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 557,
+                "total_tokens": 859,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 14
+    },
+    {
+        "request_id": 14,
+        "response": {
+            "id": "chatcmpl-CkYsg5CQ4wVSbkM0mCeFxHyLUZLWP",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"15_15.\",\n    \"pressure\": 1,\n    \"theme\": \"health\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213206,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 556,
+                "total_tokens": 858,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 15
+    },
+    {
+        "request_id": 15,
+        "response": {
+            "id": "chatcmpl-CkYshWb7k9MyK4CDvgcFkzbQXQb7g",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"16_16.\",\"pressure\":1,\"theme\":\"health\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 415,
+                "prompt_tokens": 557,
+                "total_tokens": 972,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 384,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 16
+    },
+    {
+        "request_id": 16,
+        "response": {
+            "id": "chatcmpl-CkYshpcUG5EGf4WY0jajIhLvd5B1z",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"17_17.\",\"pressure\":1,\"theme\":\"health\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 223,
+                "prompt_tokens": 556,
+                "total_tokens": 779,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 17
+    },
+    {
+        "request_id": 17,
+        "response": {
+            "id": "chatcmpl-CkYshNLeDjaSaCOd90s1YT9BFGPLt",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"18_18.\",\n    \"pressure\": 1,\n    \"theme\": \"health\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 556,
+                "total_tokens": 794,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 18
+    },
+    {
+        "request_id": 18,
+        "response": {
+            "id": "chatcmpl-CkYshMFLFp7w55yvopcGD2KF9O4ly",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"19_19.\",\n    \"pressure\": 1,\n    \"theme\": \"health\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 557,
+                "total_tokens": 795,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 19
+    },
+    {
+        "request_id": 19,
+        "response": {
+            "id": "chatcmpl-CkYshR0PLU6j1yDGfrgrO6pOrVpxb",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"20_20\",\"pressure\":1,\"theme\":\"health\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213207,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 159,
+                "prompt_tokens": 556,
+                "total_tokens": 715,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 128,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 20
+    },
+    {
+        "request_id": 20,
+        "response": {
+            "id": "chatcmpl-CkYsjs5HgUXDnKdeXh3TK5TxQVhTh",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"21_21.\",\n    \"pressure\": 1,\n    \"theme\": \"health\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213209,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 174,
+                "prompt_tokens": 557,
+                "total_tokens": 731,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 128,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 21
+    },
+    {
+        "request_id": 21,
+        "response": {
+            "id": "chatcmpl-CkYsjuy6AA6dbsvffuEl34hhpRiVW",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"22_22.\",\n    \"pressure\": 1,\n    \"theme\": \"health\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213209,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 557,
+                "total_tokens": 859,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 22
+    },
+    {
+        "request_id": 22,
+        "response": {
+            "id": "chatcmpl-CkYsjN4WloEVx8PDorxSZ5w3jU4dW",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"23_23.\",\n    \"pressure\": 1,\n    \"theme\": \"health\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213209,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 555,
+                "total_tokens": 793,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 23
+    },
+    {
+        "request_id": 23,
+        "response": {
+            "id": "chatcmpl-CkYskk1Qzi2Gmx6bq0cZXutcNcNei",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"24_24.\",\n    \"pressure\": 1,\n    \"theme\": \"health\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213210,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 175,
+                "prompt_tokens": 558,
+                "total_tokens": 733,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 128,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 24
+    },
+    {
+        "request_id": 24,
+        "response": {
+            "id": "chatcmpl-CkYsk2uU0VViF8NXMBiAksEKGBL1N",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"25_25\",\n    \"pressure\": 1,\n    \"theme\": \"health\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213210,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 110,
+                "prompt_tokens": 559,
+                "total_tokens": 669,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 64,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 25
+    },
+    {
+        "request_id": 25,
+        "response": {
+            "id": "chatcmpl-CkYskddkedPun1K6TCy5Q9tTVDL0C",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"26_26.\",\"pressure\":0,\"theme\":\"health\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213210,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 286,
+                "prompt_tokens": 552,
+                "total_tokens": 838,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 26
+    },
+    {
+        "request_id": 26,
+        "response": {
+            "id": "chatcmpl-CkYskVHzxo4hK3mK7suQjkp0faXVG",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"27_27\",\n    \"pressure\": 0,\n    \"theme\": \"health\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213210,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 110,
+                "prompt_tokens": 552,
+                "total_tokens": 662,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 64,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 27
+    },
+    {
+        "request_id": 27,
+        "response": {
+            "id": "chatcmpl-CkYskXXWAmyD0Ii9xJxsa0HTjOrYP",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"28_28.\",\n    \"pressure\": 0,\n    \"theme\": \"health\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213210,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 553,
+                "total_tokens": 791,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 28
+    },
+    {
+        "request_id": 28,
+        "response": {
+            "id": "chatcmpl-CkYslPWw87uKUhELv6Is8p2QEUzSn",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"29_29\",\n    \"pressure\": 0,\n    \"theme\": \"health\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213211,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 552,
+                "total_tokens": 790,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 29
+    },
+    {
+        "request_id": 29,
+        "response": {
+            "id": "chatcmpl-CkYslut3viDPgOHJjhNRcJ3w9n6Kl",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"30_30\",\n    \"pressure\": 0,\n    \"theme\": \"health\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213211,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 110,
+                "prompt_tokens": 551,
+                "total_tokens": 661,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 64,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 30
+    },
+    {
+        "request_id": 30,
+        "response": {
+            "id": "chatcmpl-CkYslDSHXt13RydD86pnf8UdRmZlr",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"31_31\",\n    \"pressure\": 0,\n    \"theme\": \"health\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213211,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 46,
+                "prompt_tokens": 552,
+                "total_tokens": 598,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 0,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 31
+    },
+    {
+        "request_id": 31,
+        "response": {
+            "id": "chatcmpl-CkYslKATclhK1xtoMUcuGXzjWpYHq",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"32_32.\",\"pressure\":0,\"theme\":\"health\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213211,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 222,
+                "prompt_tokens": 551,
+                "total_tokens": 773,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 32
+    },
+    {
+        "request_id": 32,
+        "response": {
+            "id": "chatcmpl-CkYslmv2IaouccdSV72HjptK8sdik",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"33_33.\",\"pressure\":0,\"theme\":\"health\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213211,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 222,
+                "prompt_tokens": 553,
+                "total_tokens": 775,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 33
+    },
+    {
+        "request_id": 33,
+        "response": {
+            "id": "chatcmpl-CkYslSwAq4ffYQaGo5O7PEM1slQ49",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"34_34.\",\n    \"pressure\": 0,\n    \"theme\": \"health\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213211,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 552,
+                "total_tokens": 790,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 34
+    },
+    {
+        "request_id": 34,
+        "response": {
+            "id": "chatcmpl-CkYslVT791ReDAGWEhmqkpf9V5Di0",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"35_35.\",\n    \"pressure\": 0,\n    \"theme\": \"health\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213211,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 551,
+                "total_tokens": 789,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 35
+    },
+    {
+        "request_id": 35,
+        "response": {
+            "id": "chatcmpl-CkYsmlQqMF5IX8UNoXDxWCHVygqtE",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"36_36.\",\n    \"pressure\": 0,\n    \"theme\": \"health\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213212,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 552,
+                "total_tokens": 790,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 36
+    },
+    {
+        "request_id": 36,
+        "response": {
+            "id": "chatcmpl-CkYsmqisHsj0Emz03XNcHqyoDTcUf",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"37_37.\",\n    \"pressure\": 0,\n    \"theme\": \"health\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213212,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 551,
+                "total_tokens": 853,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 37
+    },
+    {
+        "request_id": 37,
+        "response": {
+            "id": "chatcmpl-CkYsnPiL20Q6cYT0jPxwNhFSYIgqu",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"38_38\",\n    \"pressure\": 0,\n    \"theme\": \"health\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213213,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 558,
+                "prompt_tokens": 551,
+                "total_tokens": 1109,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 512,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 38
+    },
+    {
+        "request_id": 38,
+        "response": {
+            "id": "chatcmpl-CkYsnjihgpiVFYtE1Va3m6TrSInKN",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"39_39.\",\n    \"pressure\": 0,\n    \"theme\": \"health\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213213,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 552,
+                "total_tokens": 854,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 39
+    },
+    {
+        "request_id": 39,
+        "response": {
+            "id": "chatcmpl-CkYsnRcwqvsLhEMdzSfuGl88HCg8c",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"40_40.\",\n    \"pressure\": 0,\n    \"theme\": \"health\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213213,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 551,
+                "total_tokens": 853,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 40
+    },
+    {
+        "request_id": 40,
+        "response": {
+            "id": "chatcmpl-CkYsnzLurnywIXJP0fkr1yrLPUOC8",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"41_41\",\"pressure\":0,\"theme\":\"health\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213213,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 222,
+                "prompt_tokens": 552,
+                "total_tokens": 774,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 41
+    },
+    {
+        "request_id": 41,
+        "response": {
+            "id": "chatcmpl-CkYsni5rZh1boIXtQ0Dq6tNmcIch6",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"42_42\",\n    \"pressure\": 0,\n    \"theme\": \"health\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213213,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 174,
+                "prompt_tokens": 551,
+                "total_tokens": 725,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 128,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 42
+    },
+    {
+        "request_id": 42,
+        "response": {
+            "id": "chatcmpl-CkYsnOWU7TBmowdzaE5Khxwp86VsJ",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"43_43.\",\"pressure\":0,\"theme\":\"health\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213213,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 414,
+                "prompt_tokens": 550,
+                "total_tokens": 964,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 384,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 43
+    },
+    {
+        "request_id": 43,
+        "response": {
+            "id": "chatcmpl-CkYsoPZsCL9O20wCKMPjAtm2WOKa2",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"44_44.\",\"pressure\":0,\"theme\":\"health\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213214,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 222,
+                "prompt_tokens": 551,
+                "total_tokens": 773,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 44
+    },
+    {
+        "request_id": 44,
+        "response": {
+            "id": "chatcmpl-CkYsoDMSTrUiS1Px4MSflzrLBr1qN",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"45_45.\",\n    \"pressure\": 0,\n    \"theme\": \"health\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213214,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 366,
+                "prompt_tokens": 552,
+                "total_tokens": 918,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 320,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 45
+    },
+    {
+        "request_id": 45,
+        "response": {
+            "id": "chatcmpl-CkYsoaHV3wEinyFvS8pH6KEUf2AN6",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"46_46.\",\n    \"pressure\": 0,\n    \"theme\": \"health\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213214,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 551,
+                "total_tokens": 853,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 46
+    },
+    {
+        "request_id": 46,
+        "response": {
+            "id": "chatcmpl-CkYsoKnC2IbY9FEpdmtNLZ2OX9h7C",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"47_47.\",\"pressure\":0,\"theme\":\"health\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213214,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 158,
+                "prompt_tokens": 552,
+                "total_tokens": 710,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 128,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 47
+    },
+    {
+        "request_id": 47,
+        "response": {
+            "id": "chatcmpl-CkYso0MXIctD7VpOcr3ks9bHCXUu4",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"48_48.\",\"pressure\":0,\"theme\":\"health\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213214,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 222,
+                "prompt_tokens": 551,
+                "total_tokens": 773,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 48
+    },
+    {
+        "request_id": 48,
+        "response": {
+            "id": "chatcmpl-CkYsooOvZCzyL9SkpgVpjokE3co4W",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"49_49\",\n    \"pressure\": 0,\n    \"theme\": \"health\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213214,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 110,
+                "prompt_tokens": 552,
+                "total_tokens": 662,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 64,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 49
+    },
+    {
+        "request_id": 49,
+        "response": {
+            "id": "chatcmpl-CkYsprkqpWS16G4oUPHAggQmgxNta",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"50_50.\",\"pressure\":0,\"theme\":\"health\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213215,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 222,
+                "prompt_tokens": 552,
+                "total_tokens": 774,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 50
+    },
+    {
+        "request_id": 50,
+        "response": {
+            "id": "chatcmpl-CkYsptzRJxbV4iEkBCkxz7ndYoYMl",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"51_51.\",\n    \"pressure\": 1,\n    \"theme\": \"migration\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213215,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 430,
+                "prompt_tokens": 560,
+                "total_tokens": 990,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 384,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 51
+    },
+    {
+        "request_id": 51,
+        "response": {
+            "id": "chatcmpl-CkYsp7BsuCZqaSgUYxR8BsLcaXOze",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"52_52\",\n    \"pressure\": 1,\n    \"theme\": \"migration\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213215,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 558,
+                "prompt_tokens": 559,
+                "total_tokens": 1117,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 512,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 52
+    },
+    {
+        "request_id": 52,
+        "response": {
+            "id": "chatcmpl-CkYsq5p8Qz1x7GMzFhUZzojcaj8fl",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"53_53.\",\"pressure\":1,\"theme\":\"migration\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213216,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 287,
+                "prompt_tokens": 559,
+                "total_tokens": 846,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 53
+    },
+    {
+        "request_id": 53,
+        "response": {
+            "id": "chatcmpl-CkYsqGpbMPek9D7dvq8jNGxgk5ylB",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"54_54.\",\"pressure\":1,\"theme\":\"migration\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213216,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 223,
+                "prompt_tokens": 559,
+                "total_tokens": 782,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 54
+    },
+    {
+        "request_id": 54,
+        "response": {
+            "id": "chatcmpl-CkYsq7nZ1Z8Q2lHowhYw4U72AxyaM",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"55_55.\",\"pressure\":1,\"theme\":\"migration\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213216,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 351,
+                "prompt_tokens": 559,
+                "total_tokens": 910,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 320,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 55
+    },
+    {
+        "request_id": 55,
+        "response": {
+            "id": "chatcmpl-CkYsry4qOoszy3vy3h5AotA1gAywE",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"56_56.\",\n    \"pressure\": 1,\n    \"theme\": \"migration\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213217,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 561,
+                "total_tokens": 799,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 56
+    },
+    {
+        "request_id": 56,
+        "response": {
+            "id": "chatcmpl-CkYsrgxXAtUosqDxvOmC393Mj1O7a",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"57_57.\",\n    \"pressure\": 1,\n    \"theme\": \"migration\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213217,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 560,
+                "total_tokens": 862,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 57
+    },
+    {
+        "request_id": 57,
+        "response": {
+            "id": "chatcmpl-CkYssqq011w01aroPNNg8SaKtBWvA",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"58_58\",\n    \"pressure\": 1,\n    \"theme\": \"migration\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213218,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 110,
+                "prompt_tokens": 560,
+                "total_tokens": 670,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 64,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 58
+    },
+    {
+        "request_id": 58,
+        "response": {
+            "id": "chatcmpl-CkYssW7ehDK2YpueCMJBgCON2U15R",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"59_59.\",\n    \"pressure\": 1,\n    \"theme\": \"migration\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213218,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 560,
+                "total_tokens": 862,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 59
+    },
+    {
+        "request_id": 59,
+        "response": {
+            "id": "chatcmpl-CkYssoD5uzYM8RQDc0ElVE10hrXCu",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"60_60.\",\n    \"pressure\": 1,\n    \"theme\": \"migration\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213218,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 561,
+                "total_tokens": 799,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 60
+    },
+    {
+        "request_id": 60,
+        "response": {
+            "id": "chatcmpl-CkYssTIZnqzAl48aWHhbarGJJFKKG",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"61_61.\",\n    \"pressure\": 1,\n    \"theme\": \"migration\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213218,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 430,
+                "prompt_tokens": 560,
+                "total_tokens": 990,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 384,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 61
+    },
+    {
+        "request_id": 61,
+        "response": {
+            "id": "chatcmpl-CkYssxXAPVLEneBoxqagweizEQ5qs",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"62_62\",\n    \"pressure\": 1,\n    \"theme\": \"migration\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213218,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 561,
+                "total_tokens": 799,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 62
+    },
+    {
+        "request_id": 62,
+        "response": {
+            "id": "chatcmpl-CkYssR4upupfnv1FLwhaLXtYB57ul",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"63_63.\",\"pressure\":1,\"theme\":\"migration\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213218,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 223,
+                "prompt_tokens": 560,
+                "total_tokens": 783,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 63
+    },
+    {
+        "request_id": 63,
+        "response": {
+            "id": "chatcmpl-CkYstOa657WcRlZif3KXUCd4hGnfq",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"64_64.\",\n    \"pressure\": 1,\n    \"theme\": \"migration\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213219,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 561,
+                "total_tokens": 863,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 64
+    },
+    {
+        "request_id": 64,
+        "response": {
+            "id": "chatcmpl-CkYst9jgBA91hmMM4UUpaPmXJNkiB",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"65_65.\",\n    \"pressure\": 1,\n    \"theme\": \"migration\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213219,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 366,
+                "prompt_tokens": 560,
+                "total_tokens": 926,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 320,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 65
+    },
+    {
+        "request_id": 65,
+        "response": {
+            "id": "chatcmpl-CkYstm3vUxWiTpqixqpMcgVWegZQw",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"66_66.\",\n    \"pressure\": 1,\n    \"theme\": \"migration\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213219,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 562,
+                "total_tokens": 864,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 66
+    },
+    {
+        "request_id": 66,
+        "response": {
+            "id": "chatcmpl-CkYsuJn1TDsUdCaNsdShE1hda6CkT",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"67_67.\",\"pressure\":1,\"theme\":\"migration\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213220,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 287,
+                "prompt_tokens": 563,
+                "total_tokens": 850,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 67
+    },
+    {
+        "request_id": 67,
+        "response": {
+            "id": "chatcmpl-CkYsuIJ6MxRG0ps9sl9lGwmblGmtD",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"68_68.\",\n    \"pressure\": 1,\n    \"theme\": \"migration\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213220,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 560,
+                "total_tokens": 798,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 68
+    },
+    {
+        "request_id": 68,
+        "response": {
+            "id": "chatcmpl-CkYsurSGaHVtkHClL3epeO5JBM8Dr",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"69_69.\",\n    \"pressure\": 1,\n    \"theme\": \"migration\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213220,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 562,
+                "total_tokens": 864,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 69
+    },
+    {
+        "request_id": 69,
+        "response": {
+            "id": "chatcmpl-CkYsu5l3wf8hmxaBSd66oYT9WEMro",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"70_70.\",\"pressure\":1,\"theme\":\"migration\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213220,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 223,
+                "prompt_tokens": 559,
+                "total_tokens": 782,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 70
+    },
+    {
+        "request_id": 70,
+        "response": {
+            "id": "chatcmpl-CkYsvY3jWwloAMqN2AnBDhcUV7ysj",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"71_71.\",\n    \"pressure\": 1,\n    \"theme\": \"migration\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213221,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 303,
+                "prompt_tokens": 560,
+                "total_tokens": 863,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 71
+    },
+    {
+        "request_id": 71,
+        "response": {
+            "id": "chatcmpl-CkYsv05Pb5rCk1jwJMD08aUhRG4Ls",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"72_72.\",\n    \"pressure\": 1,\n    \"theme\": \"migration\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213221,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 174,
+                "prompt_tokens": 560,
+                "total_tokens": 734,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 128,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 72
+    },
+    {
+        "request_id": 72,
+        "response": {
+            "id": "chatcmpl-CkYsvgJlG2A3lQsTCgZVbUlhbTA3z",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"73_73.\",\n    \"pressure\": 1,\n    \"theme\": \"migration\",\n    \"sentiment\": -1\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213221,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 430,
+                "prompt_tokens": 560,
+                "total_tokens": 990,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 384,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 73
+    },
+    {
+        "request_id": 73,
+        "response": {
+            "id": "chatcmpl-CkYsw0eroHmhR7i3KA92K0ikRrmKN",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"74_74.\",\"pressure\":1,\"theme\":\"migration\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213222,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 287,
+                "prompt_tokens": 561,
+                "total_tokens": 848,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 74
+    },
+    {
+        "request_id": 74,
+        "response": {
+            "id": "chatcmpl-CkYswgbppugSbgqfOHivc797o6JcG",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"75_75.\",\"pressure\":1,\"theme\":\"migration\",\"sentiment\":-1}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213222,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 223,
+                "prompt_tokens": 560,
+                "total_tokens": 783,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 75
+    },
+    {
+        "request_id": 75,
+        "response": {
+            "id": "chatcmpl-CkYswMtgIifn6Qhm5m6jaLl8TsqWd",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"76_76.\",\n    \"pressure\": 0,\n    \"theme\": \"migration\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213222,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 550,
+                "total_tokens": 852,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 76
+    },
+    {
+        "request_id": 76,
+        "response": {
+            "id": "chatcmpl-CkYswpOn9iwCLx0lnw5ax7rria2GD",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"77_77.\",\n    \"pressure\": 0,\n    \"theme\": \"migration\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213222,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 550,
+                "total_tokens": 788,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 77
+    },
+    {
+        "request_id": 77,
+        "response": {
+            "id": "chatcmpl-CkYswRpBpPzCOfgTTXF4cPl4gknrq",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"78_78\",\"pressure\":0,\"theme\":\"migration\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213222,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 94,
+                "prompt_tokens": 550,
+                "total_tokens": 644,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 64,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 78
+    },
+    {
+        "request_id": 78,
+        "response": {
+            "id": "chatcmpl-CkYswPNygLKcFdBRz24OukU2bTIGA",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"79_79.\",\n    \"pressure\": 0,\n    \"theme\": \"migration\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213222,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 550,
+                "total_tokens": 788,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 79
+    },
+    {
+        "request_id": 79,
+        "response": {
+            "id": "chatcmpl-CkYsw7MjOYp2PDG874avhqgYeCJ72",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"80_80\",\"pressure\":0,\"theme\":\"migration\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213222,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 158,
+                "prompt_tokens": 552,
+                "total_tokens": 710,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 128,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 80
+    },
+    {
+        "request_id": 80,
+        "response": {
+            "id": "chatcmpl-CkYsxTE26yrhdqNMURfMo3VZptkaz",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"81_81.\",\n    \"pressure\": 0,\n    \"theme\": \"migration\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213223,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 551,
+                "total_tokens": 853,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 81
+    },
+    {
+        "request_id": 81,
+        "response": {
+            "id": "chatcmpl-CkYsyXcsRv6pTWHMZBexabBgug9A7",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"82_82.\",\n    \"pressure\": 0,\n    \"theme\": \"migration\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213224,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 550,
+                "total_tokens": 852,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 82
+    },
+    {
+        "request_id": 82,
+        "response": {
+            "id": "chatcmpl-CkYsyN3MN1elfiHKbmDfNeycicPSl",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"83_83.\",\n    \"pressure\": 0,\n    \"theme\": \"migration\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213224,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 430,
+                "prompt_tokens": 551,
+                "total_tokens": 981,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 384,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 83
+    },
+    {
+        "request_id": 83,
+        "response": {
+            "id": "chatcmpl-CkYsyCLft59ygHm56ywpEhybL2UXU",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"84_84.\",\n    \"pressure\": 0,\n    \"theme\": \"migration\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213224,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 550,
+                "total_tokens": 852,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 84
+    },
+    {
+        "request_id": 84,
+        "response": {
+            "id": "chatcmpl-CkYsyQToJwdYPbtPIYeHMJ46Yj3l2",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"85_85.\",\"pressure\":0,\"theme\":\"migration\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213224,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 286,
+                "prompt_tokens": 551,
+                "total_tokens": 837,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 85
+    },
+    {
+        "request_id": 85,
+        "response": {
+            "id": "chatcmpl-CkYsyCcdQfD9WHnGusypXxfmeDByZ",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"86_86\",\n    \"pressure\": 0,\n    \"theme\": \"migration\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213224,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 110,
+                "prompt_tokens": 550,
+                "total_tokens": 660,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 64,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 86
+    },
+    {
+        "request_id": 86,
+        "response": {
+            "id": "chatcmpl-CkYsyrRjek8E7xK9iWb1Qwv05I6zF",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"87_87.\",\n    \"pressure\": 0,\n    \"theme\": \"migration\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213224,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 366,
+                "prompt_tokens": 550,
+                "total_tokens": 916,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 320,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 87
+    },
+    {
+        "request_id": 87,
+        "response": {
+            "id": "chatcmpl-CkYszOg8s8RRDs2UwH5yKuSuLNWx4",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"88_88\",\"pressure\":0,\"theme\":\"migration\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213225,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 94,
+                "prompt_tokens": 552,
+                "total_tokens": 646,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 64,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 88
+    },
+    {
+        "request_id": 88,
+        "response": {
+            "id": "chatcmpl-CkYsz57dvPesYwxqcV6pmztroMpdQ",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"89_89.\",\"pressure\":0,\"theme\":\"migration\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213225,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 286,
+                "prompt_tokens": 550,
+                "total_tokens": 836,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 89
+    },
+    {
+        "request_id": 89,
+        "response": {
+            "id": "chatcmpl-CkYszfeiGEqHjqhadHiorcPeuGRlO",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"90_90\",\"pressure\":0,\"theme\":\"migration\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213225,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 94,
+                "prompt_tokens": 550,
+                "total_tokens": 644,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 64,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 90
+    },
+    {
+        "request_id": 90,
+        "response": {
+            "id": "chatcmpl-CkYsz3NaY9bUCW8TdME3S2veLyhL6",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"91_91\",\"pressure\":0,\"theme\":\"migration\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213225,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 158,
+                "prompt_tokens": 550,
+                "total_tokens": 708,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 128,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 91
+    },
+    {
+        "request_id": 91,
+        "response": {
+            "id": "chatcmpl-CkYsz090wH9sAx5Wp6ZVvI8pkdpO8",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"92_92.\",\n    \"pressure\": 0,\n    \"theme\": \"migration\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213225,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 366,
+                "prompt_tokens": 550,
+                "total_tokens": 916,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 320,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 92
+    },
+    {
+        "request_id": 92,
+        "response": {
+            "id": "chatcmpl-CkYszG7FQVsWEM1HUMiHdEh19JIf9",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"93_93.\",\"pressure\":0,\"theme\":\"migration\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213225,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 350,
+                "prompt_tokens": 550,
+                "total_tokens": 900,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 320,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 93
+    },
+    {
+        "request_id": 93,
+        "response": {
+            "id": "chatcmpl-CkYt0gQRqRAs3hmkjbsT7vNdFbc0u",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[{\"id\":\"94_94\",\"pressure\":0,\"theme\":\"migration\",\"sentiment\":0}]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213226,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 94,
+                "prompt_tokens": 551,
+                "total_tokens": 645,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 64,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 94
+    },
+    {
+        "request_id": 94,
+        "response": {
+            "id": "chatcmpl-CkYt0AE0yMy9VW0hmo9RMWs3Tc7fe",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"95_95.\",\n    \"pressure\": 0,\n    \"theme\": \"migration\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213226,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 550,
+                "total_tokens": 788,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 95
+    },
+    {
+        "request_id": 95,
+        "response": {
+            "id": "chatcmpl-CkYt03p5Hre30fMHSfgkD716wPjUO",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"96_96.\",\n    \"pressure\": 0,\n    \"theme\": \"migration\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213226,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 238,
+                "prompt_tokens": 551,
+                "total_tokens": 789,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 192,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 96
+    },
+    {
+        "request_id": 96,
+        "response": {
+            "id": "chatcmpl-CkYt0E7b6A0DscAK3RRhkhHTHGOnC",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"97_97.\",\n    \"pressure\": 0,\n    \"theme\": \"migration\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213226,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 366,
+                "prompt_tokens": 550,
+                "total_tokens": 916,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 320,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 97
+    },
+    {
+        "request_id": 97,
+        "response": {
+            "id": "chatcmpl-CkYt0Dyqw1nVQtmjIMjfKhAMi5zbB",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"98_98\",\n    \"pressure\": 0,\n    \"theme\": \"migration\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213226,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 110,
+                "prompt_tokens": 550,
+                "total_tokens": 660,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 64,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 98
+    },
+    {
+        "request_id": 98,
+        "response": {
+            "id": "chatcmpl-CkYt1Z0fcTMSwjcvvbKASDLbihfnD",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"99_99.\",\n    \"pressure\": 0,\n    \"theme\": \"migration\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213227,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 550,
+                "total_tokens": 852,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 99
+    },
+    {
+        "request_id": 99,
+        "response": {
+            "id": "chatcmpl-CkYt2AvBpSMasuJ3lGzokPXks4zuy",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "[\n  {\n    \"id\": \"100_100.\",\n    \"pressure\": 0,\n    \"theme\": \"migration\",\n    \"sentiment\": 0\n  }\n]",
+                        "refusal": null,
+                        "role": "assistant",
+                        "annotations": []
+                    }
+                }
+            ],
+            "created": 1765213228,
+            "model": "gpt-5-mini-2025-08-07",
+            "object": "chat.completion",
+            "service_tier": "default",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 302,
+                "prompt_tokens": 550,
+                "total_tokens": 852,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 256,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            }
+        },
+        "status": "success",
+        "article_id": 100
+    }
+]

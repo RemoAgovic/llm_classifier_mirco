@@ -1,0 +1,101 @@
+id,sentence,pressure,theme,sentiment
+1,"Citizens publicly criticize the health administration for long waiting times in public hospitals, putting strong pressure on officials to act.",1,health,-1
+2,"Citizens publicly criticize the health administration for understaffed emergency departments, putting strong pressure on officials to act.",1,health,-1
+3,"Citizens publicly criticize the health administration for delays in approving new medicines, putting strong pressure on officials to act.",1,health,-1
+4,"Citizens publicly criticize the health administration for slow rollout of vaccination campaigns, putting strong pressure on officials to act.",1,health,-1
+5,"Citizens publicly criticize the health administration for confusing health insurance procedures, putting strong pressure on officials to act.",1,health,-1
+6,"Citizens publicly criticize the health administration for lack of transparency in hospital budgeting, putting strong pressure on officials to act.",1,health,-1
+7,"Citizens publicly criticize the health administration for inefficient coordination between clinics, putting strong pressure on officials to act.",1,health,-1
+8,"Citizens publicly criticize the health administration for poor digital systems for patient records, putting strong pressure on officials to act.",1,health,-1
+9,"Citizens publicly criticize the health administration for bureaucratic obstacles to specialist referrals, putting strong pressure on officials to act.",1,health,-1
+10,"Citizens publicly criticize the health administration for slow response to public health crises, putting strong pressure on officials to act.",1,health,-1
+11,"Citizens publicly criticize the health administration for lack of accountability for hospital management, putting strong pressure on officials to act.",1,health,-1
+12,"Citizens publicly criticize the health administration for repeated IT outages in public health portals, putting strong pressure on officials to act.",1,health,-1
+13,"Citizens publicly criticize the health administration for limited access to mental health services, putting strong pressure on officials to act.",1,health,-1
+14,"Citizens publicly criticize the health administration for delays in reimbursing medical expenses, putting strong pressure on officials to act.",1,health,-1
+15,"Citizens publicly criticize the health administration for confusing communication during epidemics, putting strong pressure on officials to act.",1,health,-1
+16,"Citizens publicly criticize the health administration for failure to address rural doctor shortages, putting strong pressure on officials to act.",1,health,-1
+17,"Citizens publicly criticize the health administration for inefficient procurement of medical equipment, putting strong pressure on officials to act.",1,health,-1
+18,"Citizens publicly criticize the health administration for delays in updating treatment guidelines, putting strong pressure on officials to act.",1,health,-1
+19,"Citizens publicly criticize the health administration for missing data in national health statistics, putting strong pressure on officials to act.",1,health,-1
+20,"Citizens publicly criticize the health administration for frequent policy changes without consultation, putting strong pressure on officials to act.",1,health,-1
+21,"Citizens publicly criticize the health administration for overly complex regulations for family doctors, putting strong pressure on officials to act.",1,health,-1
+22,"Citizens publicly criticize the health administration for slow licensing of foreign-trained doctors, putting strong pressure on officials to act.",1,health,-1
+23,"Citizens publicly criticize the health administration for unclear responsibilities between agencies, putting strong pressure on officials to act.",1,health,-1
+24,"Citizens publicly criticize the health administration for lack of follow-up on patient complaints, putting strong pressure on officials to act.",1,health,-1
+25,"Citizens publicly criticize the health administration for poor coordination between federal and local health offices, putting strong pressure on officials to act.",1,health,-1
+26,"The health administration is currently responsible for publishing annual reports on hospital performance, without notable controversy.",0,health,0
+27,"The health administration is currently responsible for holding regular consultations with medical associations, without notable controversy.",0,health,0
+28,"The health administration is currently responsible for updating digital systems in the health registry, without notable controversy.",0,health,0
+29,"The health administration is currently responsible for organizing briefings on vaccination coverage, without notable controversy.",0,health,0
+30,"The health administration is currently responsible for collecting data on patient satisfaction, without notable controversy.",0,health,0
+31,"The health administration is currently responsible for coordinating meetings with regional health offices, without notable controversy.",0,health,0
+32,"The health administration is currently responsible for issuing guidelines for general practitioners, without notable controversy.",0,health,0
+33,"The health administration is currently responsible for maintaining a hotline for health-related questions, without notable controversy.",0,health,0
+34,"The health administration is currently responsible for standardizing forms for medical reimbursement, without notable controversy.",0,health,0
+35,"The health administration is currently responsible for mapping available intensive care capacities, without notable controversy.",0,health,0
+36,"The health administration is currently responsible for monitoring the distribution of medical staff, without notable controversy.",0,health,0
+37,"The health administration is currently responsible for preparing reports on pharmaceutical spending, without notable controversy.",0,health,0
+38,"The health administration is currently responsible for reviewing applications for new clinics, without notable controversy.",0,health,0
+39,"The health administration is currently responsible for organizing training sessions for civil servants, without notable controversy.",0,health,0
+40,"The health administration is currently responsible for publishing statistics on chronic diseases, without notable controversy.",0,health,0
+41,"The health administration is currently responsible for cooperating with municipalities on health campaigns, without notable controversy.",0,health,0
+42,"The health administration is currently responsible for updating online information about hospitals, without notable controversy.",0,health,0
+43,"The health administration is currently responsible for reviewing hospital infrastructure plans, without notable controversy.",0,health,0
+44,"The health administration is currently responsible for coordinating with international health organizations, without notable controversy.",0,health,0
+45,"The health administration is currently responsible for hosting public information events on prevention, without notable controversy.",0,health,0
+46,"The health administration is currently responsible for issuing newsletters to health professionals, without notable controversy.",0,health,0
+47,"The health administration is currently responsible for maintaining registries for health facilities, without notable controversy.",0,health,0
+48,"The health administration is currently responsible for reviewing feedback from citizen panels, without notable controversy.",0,health,0
+49,"The health administration is currently responsible for preparing contingency plans for epidemics, without notable controversy.",0,health,0
+50,"The health administration is currently responsible for conducting surveys on access to care, without notable controversy.",0,health,0
+51,"Advocacy groups accuse the migration administration of mishandling long queues at the immigration office, increasing public pressure on the authorities.",1,migration,-1
+52,"Advocacy groups accuse the migration administration of mishandling delays in processing asylum applications, increasing public pressure on the authorities.",1,migration,-1
+53,"Advocacy groups accuse the migration administration of mishandling inconsistent communication about residence permits, increasing public pressure on the authorities.",1,migration,-1
+54,"Advocacy groups accuse the migration administration of mishandling frequent changes in visa requirements, increasing public pressure on the authorities.",1,migration,-1
+55,"Advocacy groups accuse the migration administration of mishandling limited access to interpretation services, increasing public pressure on the authorities.",1,migration,-1
+56,"Advocacy groups accuse the migration administration of mishandling slow response to appeals in asylum cases, increasing public pressure on the authorities.",1,migration,-1
+57,"Advocacy groups accuse the migration administration of mishandling opaque criteria for deportation decisions, increasing public pressure on the authorities.",1,migration,-1
+58,"Advocacy groups accuse the migration administration of mishandling overcrowded reception centers for refugees, increasing public pressure on the authorities.",1,migration,-1
+59,"Advocacy groups accuse the migration administration of mishandling lack of coordination between migration agencies, increasing public pressure on the authorities.",1,migration,-1
+60,"Advocacy groups accuse the migration administration of mishandling delays in issuing work permits for migrants, increasing public pressure on the authorities.",1,migration,-1
+61,"Advocacy groups accuse the migration administration of mishandling insufficient staff at local migration offices, increasing public pressure on the authorities.",1,migration,-1
+62,"Advocacy groups accuse the migration administration of mishandling poor information on family reunification procedures, increasing public pressure on the authorities.",1,migration,-1
+63,"Advocacy groups accuse the migration administration of mishandling unclear deadlines for residency renewals, increasing public pressure on the authorities.",1,migration,-1
+64,"Advocacy groups accuse the migration administration of mishandling repeated loss of documents in migration files, increasing public pressure on the authorities.",1,migration,-1
+65,"Advocacy groups accuse the migration administration of mishandling insufficient support for municipalities hosting refugees, increasing public pressure on the authorities.",1,migration,-1
+66,"Advocacy groups accuse the migration administration of mishandling lack of transparency in allocation of asylum seekers, increasing public pressure on the authorities.",1,migration,-1
+67,"Advocacy groups accuse the migration administration of mishandling slow reaction to court rulings on migration policy, increasing public pressure on the authorities.",1,migration,-1
+68,"Advocacy groups accuse the migration administration of mishandling confusing online portals for permit applications, increasing public pressure on the authorities.",1,migration,-1
+69,"Advocacy groups accuse the migration administration of mishandling limited access to legal advice in reception centers, increasing public pressure on the authorities.",1,migration,-1
+70,"Advocacy groups accuse the migration administration of mishandling delayed implementation of integration measures, increasing public pressure on the authorities.",1,migration,-1
+71,"Advocacy groups accuse the migration administration of mishandling inefficient data sharing between border authorities, increasing public pressure on the authorities.",1,migration,-1
+72,"Advocacy groups accuse the migration administration of mishandling insufficient monitoring of private accommodation standards, increasing public pressure on the authorities.",1,migration,-1
+73,"Advocacy groups accuse the migration administration of mishandling overly complex forms for citizenship applications, increasing public pressure on the authorities.",1,migration,-1
+74,"Advocacy groups accuse the migration administration of mishandling unclear responsibilities between federal and local offices, increasing public pressure on the authorities.",1,migration,-1
+75,"Advocacy groups accuse the migration administration of mishandling slow processing of humanitarian visa requests, increasing public pressure on the authorities.",1,migration,-1
+76,The migration administration coordinates publishing statistics on asylum decisions as part of its routine responsibilities.,0,migration,0
+77,The migration administration coordinates organizing language courses for newcomers as part of its routine responsibilities.,0,migration,0
+78,The migration administration coordinates coordinating meetings with local authorities as part of its routine responsibilities.,0,migration,0
+79,The migration administration coordinates preparing reports on migration flows as part of its routine responsibilities.,0,migration,0
+80,The migration administration coordinates maintaining an online portal for visa information as part of its routine responsibilities.,0,migration,0
+81,The migration administration coordinates hosting briefings on integration programs as part of its routine responsibilities.,0,migration,0
+82,The migration administration coordinates reviewing procedures for residence permits as part of its routine responsibilities.,0,migration,0
+83,The migration administration coordinates collecting data on family reunification as part of its routine responsibilities.,0,migration,0
+84,The migration administration coordinates cooperating with international migration organizations as part of its routine responsibilities.,0,migration,0
+85,The migration administration coordinates mapping available places in reception centers as part of its routine responsibilities.,0,migration,0
+86,The migration administration coordinates updating guidelines for border controls as part of its routine responsibilities.,0,migration,0
+87,The migration administration coordinates monitoring trends in labour migration as part of its routine responsibilities.,0,migration,0
+88,The migration administration coordinates issuing information leaflets in several languages as part of its routine responsibilities.,0,migration,0
+89,The migration administration coordinates managing registers of residence permits as part of its routine responsibilities.,0,migration,0
+90,The migration administration coordinates organizing training for caseworkers as part of its routine responsibilities.,0,migration,0
+91,The migration administration coordinates preparing annual migration policy reviews as part of its routine responsibilities.,0,migration,0
+92,The migration administration coordinates coordinating with consulates abroad as part of its routine responsibilities.,0,migration,0
+93,The migration administration coordinates updating forms for citizenship applications as part of its routine responsibilities.,0,migration,0
+94,The migration administration coordinates reviewing appeals procedures in asylum cases as part of its routine responsibilities.,0,migration,0
+95,The migration administration coordinates compiling statistics on deportations as part of its routine responsibilities.,0,migration,0
+96,The migration administration coordinates partnering with NGOs on integration projects as part of its routine responsibilities.,0,migration,0
+97,The migration administration coordinates maintaining databases on migration status as part of its routine responsibilities.,0,migration,0
+98,The migration administration coordinates reviewing bilateral agreements on migration as part of its routine responsibilities.,0,migration,0
+99,The migration administration coordinates publishing information on return assistance as part of its routine responsibilities.,0,migration,0
+100,The migration administration coordinates conducting surveys on integration outcomes as part of its routine responsibilities.,0,migration,0
